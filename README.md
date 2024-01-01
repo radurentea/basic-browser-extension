@@ -1,1 +1,1 @@
-#This is a basic browser extension for Microsoft Edge
+# This is a basic browser extension for Microsoft Edge
