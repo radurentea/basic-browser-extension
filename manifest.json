@@ -1,0 +1,13 @@
+{
+    "name": "My extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Wow, incredible extension.",
+    "icons":
+    {
+        "128": "icons/nasapod128x128.png"
+    },
+    "action": {
+        "default_popup": "popup/popup.html"
+    }
+}
